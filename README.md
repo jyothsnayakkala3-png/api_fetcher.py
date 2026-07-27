@@ -1,2 +1,15 @@
-# api_fetcher.py
-This project uses Python's Requests module to fetch user information from a public REST API. The JSON response is parsed and displayed in a readable format. It also includes a search feature that filters users by name, username, or email, demonstrating API integration and JSON handling.
+# API Data Fetcher
+
+## Features
+- Fetches API data using Requests
+- Parses JSON response
+- Displays formatted user information
+- Search/filter by name, username, or email
+
+## Installation
+
+pip install -r requirements.txt
+
+## Run
+
+python api_fetcher.py
